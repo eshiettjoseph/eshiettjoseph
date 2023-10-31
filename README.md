@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Joseph%20Eshiett&font=Fira%20Code&center=true&width=440&height=45&color=#ffffff&vCenter=true&pause=1000&size=30" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Joseph%20Eshiett&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <p align="center">
