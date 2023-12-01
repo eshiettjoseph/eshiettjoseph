@@ -10,6 +10,7 @@
 </p>
 
 I am a DevOps Engineer with over 2 years of experience, passionate about building and shifting software to the cloud.
+
 PS: I lost access to my old [Github Account](https://github.com/joeshiett), this is a new one.
 
 #### Top Technologies and Stack ⚡️
