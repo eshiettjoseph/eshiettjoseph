@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=DevOps%20Infrastructure%20and%20SRE;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-I am a DevOps Engineer with over 2 years of experience, passionate about building and shifting software to the cloud.
+A DevOps Engineer, passionate about building and shifting software to the cloud.
 **PS:** *I lost access to my old [Github Account](https://github.com/joeshiett), this is a new one.*
 
 
