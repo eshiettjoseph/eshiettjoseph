@@ -12,6 +12,10 @@
 A DevOps Engineer, passionate about building and shifting software to the cloud.
 **PS:** *I lost access to my old [Github Account](https://github.com/joeshiett), this is a new one.*
 
+* 🌱 I’m growing my skills in DevOps Engineering, Web3 and Opensource.
+* 🔭 DevOps roles and oppurtunities to expand my technical depth.
+* 👯 I’m looking to collaborate on: Cloud Native, DevOps, Backend systems, Documentation, and Technical writing.
+* 🤔 I’m looking for Open-source Communities, FOSS, Web3 and the challenges you or your team might be facing.
 
 **Toolbox:**
 * Linux, Kubernetes, AWS
